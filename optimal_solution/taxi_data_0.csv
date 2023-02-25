@@ -1,4 +1,4 @@
-taxi_id,taxi_longitude,taxi_lattitude,soc
+taxi_id,taxi_longitude,taxi_latitude,soc
 1,-74.002708,40.718479,0.39
 2,-73.989738,40.729786,0.16
 3,-74.013786,40.714718,0.39

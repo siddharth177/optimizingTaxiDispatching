@@ -1,4 +1,4 @@
-customer_id,pickup_longitude,pickup_lattitude,dropoff_longitude,dropoff_lattitude,trip_distance,CS_distance,customer_waiting_time(mins)
+customer_id,pickup_longitude,pickup_latitude,dropoff_longitude,dropoff_latitude,trip_distance,CS_distance,customer_waiting_time_in_mins
 1,-73.948418,40.72459,-73.92614,40.864761,4.592,0.215,5
 2,-73.967171,40.764236,-73.956299,40.781261,1.318,0.838,2.8
 3,-73.789757,40.646526,-74.136749,40.601543,34.715,0.665,4.7
